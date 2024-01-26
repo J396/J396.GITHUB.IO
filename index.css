@@ -2,11 +2,11 @@ h1{
   color: rgb(0,205,190);
 /*   background-color: grey; */
   padding: 3px solid white;
-  margin: 0 auto;
+  margin: 300px auto;
   background-image:url('https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif');
   background-size:cover;
   font-family: Fantansy;
-  font-size: 100px;
+  font-size: 200px;
 }
 
 h2:hover{
