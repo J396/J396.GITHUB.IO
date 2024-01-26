@@ -1,7 +1,7 @@
 h1{
   color: AliceBlue;
-  background-color: Grey;
-  padding: 3px solid White;
+  background-color: grey;
+  padding: 3px solid white;
   background-image:url('https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif');
   background-size:cover;
 }
