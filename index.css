@@ -5,3 +5,8 @@ h1{
 h2:hover{
   color:SeaGreen;
 }
+
+#ice-cream{
+  opacity:0.5;
+  z-index:2;
+}
