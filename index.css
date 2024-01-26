@@ -1,6 +1,8 @@
 h1{
-  color: AntiqueWhite;
+  color: AliceBlue;
   background-color: DarkOliveGreen;
+  background-image:url'https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif';
+  background-size:cover;
 }
 
 h2:hover{
