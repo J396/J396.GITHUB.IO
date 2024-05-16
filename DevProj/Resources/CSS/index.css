@@ -1,0 +1,17 @@
+h1{
+    color:blueviolet;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
+
+img{
+    opacity: 0.75;
+    overflow: scroll;
+}
+
+section{
+    font-family: cursive;
+}
